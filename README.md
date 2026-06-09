@@ -1,7 +1,9 @@
 # -_sistema_de_probabilidad_con_oracle_19C_- :.
 # Sistema de Probabilidad con Oracle 19c:
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7863e47-e565-464c-9d1f-7831fc847cc3" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7863e47-e565-464c-9d1f-7831fc847cc3" />    
+
+<img width="2555" height="1074" alt="image" src="https://github.com/user-attachments/assets/603c7ddd-d974-489b-b4e7-41cf931ba3e9" />    
 
 ```
 
